@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: We are about farts
-datePublished: '2016-06-25T00:14:30.301Z'
-dateModified: '2016-06-25T00:14:22.948Z'
-authors: []
-publisher: null
+datePublished: '2016-06-25T00:16:44.398Z'
+dateModified: '2016-06-25T00:14:38.533Z'
 title: ''
 author: []
-starred: false
 sourcePath: _posts/2016-06-25-we-are-about-farts.md
+authors: []
+publisher: null
+starred: false
 url: we-are-about-farts/index.html
 _type: Article
 

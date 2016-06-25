@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[farts]]></title>
-        <description><![CDATA[farts]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[The place where farts are]]></title>
+        <description><![CDATA[The place where farts are]]></description>
+        <link>https://thegrid.ai/farts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 25 Jun 2016 00:14:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 25 Jun 2016 00:16:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/farts/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>We are about farts</p>]]></description>
-            <link>undefinedwe-are-about-farts/index.html</link>
+            <link>https://thegrid.ai/farts/we-are-about-farts/index.html</link>
             <guid isPermaLink="false">67b8e9e6-66e4-4a17-84cf-5dba60672806</guid>
-            <pubDate>Sat, 25 Jun 2016 00:14:30 GMT</pubDate>
+            <pubDate>Sat, 25 Jun 2016 00:16:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
